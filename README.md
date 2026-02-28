@@ -14,7 +14,7 @@ A lightweight, self-contained driver for the **ST7796S 480×320 TFT display** ov
 | Microcontroller | Particle Photon 2 |
 | Display module | 4.0" TFT SPI 480×320 V1.0 (MSP4031) |
 | Display driver IC | ST7796S |
-| Touch controller | FT6336U (capacitive, I²C) — see [FT6336U driver](#touch-support) |
+| Touch controller | FT6336U (capacitive, I²C) — see [FT6336U driver](#touch-support) | (still in testing)
 
 ---
 
@@ -199,9 +199,7 @@ tft.drawGauge(
 
 ## Touch Support
 
-This library handles display only. For the FT6336U capacitive touch controller found on the MSP4031 module, see the companion driver in this repo:
-
-**[FT6336U.h / FT6336U.cpp](src/FT6336U.h)**
+This library handles display only. Driver for FT6336U capacitive touch controller found on the MSP4031 module will be added soon:
 
 Wiring for touch (I²C, independent of display SPI):
 
