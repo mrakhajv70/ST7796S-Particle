@@ -229,6 +229,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Developed by **Estyn Stevenson-Gentry** for the **NC State SolarPack** solar car team (Fenrir vehicle, SPIN Board display system).
+Developed by **estyntech** for the **NC State SolarPack** solar car team (Fenrir vehicle, SPIN Board display system).
 
 Initialization sequence derived from the official ST7796S datasheet and the [lcdwiki.com MSP4031 module documentation](https://www.lcdwiki.com/4.0inch_Capacitive_SPI_Module_ST7796).
